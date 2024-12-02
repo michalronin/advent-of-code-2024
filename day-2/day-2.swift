@@ -1,3 +1,5 @@
+import Foundation
+
 let fileName = "input.txt"
 let currentDirectory = FileManager.default.currentDirectoryPath
 let filePath = "\(currentDirectory)/\(fileName)"
